@@ -1,0 +1,13 @@
+code {
+    background-color: #d3d3d3;
+    color: #ff3232;
+    padding: .25vw .5vw;
+    border-radius: 2.5px;
+}
+
+pre code {
+    display: inline-block;
+    background-color: #2b2a2a;
+    color: white;
+    padding: .25vw .5vw;
+}
